@@ -1,8 +1,6 @@
 # Team page Generator
 
-![GitHub](https://img.shields.io/github/license/jacob-banks/Express-note-taker)
-![GitHub language count](https://img.shields.io/github/languages/count/Express-note-taker)
-![GitHub top language](https://img.shields.io/github/languages/top/jacob-banks/Express-note-taker)
+
 
 ## Description
 
