@@ -1,5 +1,7 @@
 # Team page Generator
-
+![GitHub](https://img.shields.io/github/license/jacob-banks/Express-Note-Taker)
+![GitHub language count](https://img.shields.io/github/languages/count/jacob-banks/Express-Note-Taker)
+![GitHub top language](https://img.shields.io/github/languages/top/jacob-banks/Express-Note-Taker)
 
 
 ## Description
@@ -16,7 +18,6 @@ See Note taker here: https://guarded-ocean-80431.herokuapp.com
 - [Credits](#credits)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#Tests)
 - [Contact](#contact)
 
 ## Usage
@@ -37,9 +38,6 @@ Copyright © 2021 [JACOB BANKS](https://github.com/jacob-banks)
 
 Please feel free to add to or adjust any file. Fork away!. Please contact me for more info. Email kobyBanks@gmail.com
 
-## Tests
-
-none avaible atm
 
 ## Contact
 
