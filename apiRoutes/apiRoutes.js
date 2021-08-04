@@ -5,7 +5,7 @@ const fs = require("fs");
 router.get("/notes", (req, res) => {
   //creates variable from db.json file
   let notes = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
-  //return notes to client
+  //return notes
   return res.json(notes);
 });
 
