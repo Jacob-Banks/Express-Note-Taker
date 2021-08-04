@@ -14,7 +14,7 @@ See Note taker here: https://guarded-ocean-80431.herokuapp.com
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 - [Contributing](#contributing)
