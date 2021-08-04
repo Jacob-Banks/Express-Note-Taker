@@ -1,0 +1,25 @@
+{
+  "name": "miniature-eureka",
+  "version": "1.0.0",
+  "description": "express note taker",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacob-Banks/Express-Note-Taker.git"
+  },
+  "author": "jacob banks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jacob-Banks/Express-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Jacob-Banks/Express-Note-Taker#readme"
+}
